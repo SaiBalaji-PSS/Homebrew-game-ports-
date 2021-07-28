@@ -6,4 +6,3 @@ A multi-platform C++ game SDL for PC later ported to Nintendo Switch,Linux,Origi
 ## Windows/Mac/Linux
 Install the SDL2  then execute make in the PC/Linux/Mac folder.
 
-## Windows 
