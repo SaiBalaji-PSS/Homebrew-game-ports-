@@ -3,8 +3,6 @@ A multi-platform C++ game made using SDL(OpenGL wrapper) for PC later ported to 
 
 ![collage-3](https://user-images.githubusercontent.com/51410810/127272035-5c0bf72d-8e81-424e-8d2c-ae5a6a0fedfd.png)
 
-
-
 ## Compiling
 
 ## Windows/Mac/Linux
