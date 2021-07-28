@@ -9,7 +9,7 @@ Install the SDL2  then execute make in the PC/Linux/Mac folder.
 
 
 ## Xbox
-Install the [nxdk](https://github.com/XboxDev/nxdk) then execute make in the XboxPort folder.
+Install the [nxdk](https://github.com/XboxDev/nxdk) then execute make in the XboxPort folder to generate XISO. Load it in Xbox(2001) console or in Xemu
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/51410810/127269719-72c16f2f-ae42-4d2f-9a6e-7b888a10b2f0.gif)
 
 
