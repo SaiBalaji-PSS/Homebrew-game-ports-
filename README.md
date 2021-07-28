@@ -1,6 +1,5 @@
 # Homebrew-game-ports-
-A multi-platform C++ game made using![collage-3](https://user-images.githubusercontent.com/51410810/127271960-2d31fbde-44c8-4767-8c68-b5f6a3020a16.png)
- SDL(OpenGL wrapper) for PC later ported to Nintendo Switch,Linux,Original Xbox(2001),MacOS
+A multi-platform C++ game made using SDL(OpenGL wrapper) for PC later ported to Nintendo Switch,Linux,Original Xbox(2001),MacOS
 
 ![collage-3](https://user-images.githubusercontent.com/51410810/127272035-5c0bf72d-8e81-424e-8d2c-ae5a6a0fedfd.png)
 
